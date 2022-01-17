@@ -1,0 +1,6 @@
+framework module Pods_base_project_VIP_base_project_VIPUITests {
+  umbrella header "Pods-base-project-VIP-base-project-VIPUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

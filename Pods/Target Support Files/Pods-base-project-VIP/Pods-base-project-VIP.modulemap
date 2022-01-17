@@ -1,0 +1,6 @@
+framework module Pods_base_project_VIP {
+  umbrella header "Pods-base-project-VIP-umbrella.h"
+
+  export *
+  module * { export * }
+}
